@@ -1,0 +1,13 @@
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\bin\Release\JeSCommandLine.exe
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\bin\Release\JeSCommandLine.pdb
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.MainUI.resources
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.JeSTerminal.resources
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.Properties.Resources.resources
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.TerminalControl.resources
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.csproj.GenerateResource.Cache
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.exe
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.pdb
+F:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.exe
+F:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.pdb
+D:\User\Documents\Visual Studio 2013\Projects\JeSCommandLine\trunk\JeSCommandLine\obj\Release\JeSCommandLine.csprojResolveAssemblyReference.cache
